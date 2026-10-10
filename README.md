@@ -10,4 +10,4 @@ This dashboard explores cancer survival patterns by age, gender, cancer type, an
 Tableau, Excel, Data Visualization
 ### Files
 -'Cancer Mortality Dashboard.twb' - Tableau workbook (source code)
-- 'Dashboard 1.png' - Dashboard screenshot
+-'Dashboard 1.png' - Dashboard screenshot
